@@ -33,7 +33,7 @@
 
 // ---------- Settings ----------
 #define E_VOLCANO_MAX     4 // Maximum number of volcanoes
-#define E_VOLCANO_TIME    1000 // Time of update volcanoes in milliseconds
+#define E_VOLCANO_TIME    1000 // Time of update volcanoes timer in milliseconds
 #define E_VOLCANO_CO_FUNC CreateDynamicObject // Create object function
 #define E_VOLCANO_DO_FUNC DestroyDynamicObject // Destroy object function
 // ------------------------------
